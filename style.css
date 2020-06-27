@@ -1,0 +1,38 @@
+.main{
+    border: 5px solid rgb(7, 124, 192);
+    /* border-radius: 8px; */
+    width: 200px;
+    margin: 0 auto;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+.try{
+    width: 97%;
+    height:20px;
+    background-color:skyblue;
+    border: 1px solid blue;
+    color:black;
+}
+.clear{
+    width:100%;
+    margin-top: 10px;
+    border: 1px solid blue;
+    background-color:skyblue;
+
+}
+.btn{
+    width:45px;
+    margin: 1px;
+    background-color:skyblue;
+    border: 1px solid blue;
+
+
+}
+.halfbtn{
+    width:98px;
+    background-color:skyblue;
+    margin-top:10px ;
+    border: 1px solid blue;
+}
